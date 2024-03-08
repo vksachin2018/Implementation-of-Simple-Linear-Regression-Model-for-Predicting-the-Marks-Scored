@@ -64,15 +64,22 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![dataset](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/bd791a20-f976-4746-9376-d3c304861258)
-![head](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/b2a197c5-b596-46d4-8836-9800510dd708)
-![tail](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/bfa669ed-6dd2-487c-9cae-a98064677956)
-![xyvalues](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/c8c63382-7695-43f9-9b71-380a7fac9512)
-![predict ](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/af563636-2963-4371-bb1c-15df4a917900)
-![values](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/21375649-a3a9-4d78-8cc5-3d5861277749)
-![train](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/fd61f5a2-b6fa-4c21-b13f-beebdf2c65e3)
-![test](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/9489e2c1-7711-4973-a755-739c41c1de46)
-
+dataset
+![dataset](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/669914fe-9c2a-4b75-8596-b37866d2536e)
+Head values
+![head](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/68111540-e4ff-443a-b6b0-cb3ff30d879f)
+Tail values
+![tail](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/3f2aaf68-fb96-4c79-9d53-ec77fc04be27)
+X and Y values
+![xyvalues](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/13513b22-b2cc-46ba-b21c-a71ef9f51d14)
+Predication values of X and Y
+![predict ](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/aa9be2bb-0d4a-40b5-9f5f-88591b7b801c)
+MSE,MAE and RMSE
+![values](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/fd6365fc-e2d4-472d-9ca4-d7a0a8bea510)
+Training set
+![train](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/d58a5b66-1484-4378-8ab6-a559f6c36104)
+Training set
+![test](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/773c638a-7d8a-43db-b9e7-589620f196af)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
