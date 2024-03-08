@@ -76,9 +76,9 @@ Predication values of X and Y
 ![predict ](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/aa9be2bb-0d4a-40b5-9f5f-88591b7b801c)
 MSE,MAE and RMSE
 ![values](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/fd6365fc-e2d4-472d-9ca4-d7a0a8bea510)
-Training set
+## Training set
 ![train](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/d58a5b66-1484-4378-8ab6-a559f6c36104)
-Training set
+## Training set
 ![test](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/773c638a-7d8a-43db-b9e7-589620f196af)
 
 ## Result:
