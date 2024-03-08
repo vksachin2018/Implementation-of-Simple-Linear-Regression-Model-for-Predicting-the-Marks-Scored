@@ -64,17 +64,17 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-dataset
+## dataset
 ![dataset](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/669914fe-9c2a-4b75-8596-b37866d2536e)
-Head values
+## Head values
 ![head](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/68111540-e4ff-443a-b6b0-cb3ff30d879f)
-Tail values
+## Tail values
 ![tail](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/3f2aaf68-fb96-4c79-9d53-ec77fc04be27)
-X and Y values
+## X and Y values
 ![xyvalues](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/13513b22-b2cc-46ba-b21c-a71ef9f51d14)
-Predication values of X and Y
+## Predication values of X and Y
 ![predict ](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/aa9be2bb-0d4a-40b5-9f5f-88591b7b801c)
-MSE,MAE and RMSE
+## MSE,MAE and RMSE
 ![values](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/fd6365fc-e2d4-472d-9ca4-d7a0a8bea510)
 ## Training set
 ![train](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/d58a5b66-1484-4378-8ab6-a559f6c36104)
