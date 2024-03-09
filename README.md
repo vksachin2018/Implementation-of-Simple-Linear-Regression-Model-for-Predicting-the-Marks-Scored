@@ -6,14 +6,16 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+   
 
 ## Algorithm
-1. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#1import-the-standard-libraries
-2. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#2set-variables-for-assigning-dataset-values
-3. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#3import-linear-regression-from-sklearn
-4. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#4assign-the-points-for-representing-in-the-graph
-5. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#5predict-the-regression-for-marks-by-using-the-representation-of-the-graph
-6. https://github.com/d-kavinraja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored?tab=readme-ov-file#6compare-the-graphs-and-hence-we-obtained-the-linear-regression-for-the-given-datas
+1. Import the standard libraries.
+2. Set variable for assingning dataset values.
+3. Import linear regression from sklearn.
+4. Assign the points for representing in the graph.
+5. Predict the regression for marks by using the representation of the graph.
+6. Compare the graphs and hence we obtained the linear regression for the given datas.
+   
 ## Program:
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
