@@ -79,10 +79,12 @@ print("RMSE= ",rmse)
 ![predict ](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/aa9be2bb-0d4a-40b5-9f5f-88591b7b801c)
 ## MSE,MAE and RMSE
 ![values](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/fd6365fc-e2d4-472d-9ca4-d7a0a8bea510)
-## Training set
-![train](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/d58a5b66-1484-4378-8ab6-a559f6c36104)
-## Training set
-![test](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/773c638a-7d8a-43db-b9e7-589620f196af)
+## Training set graph
+![image](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/5c9f5544-22fc-480c-8722-2731ee245bba)
+
+## Training set graph
+![image](https://github.com/vksachin2018/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149366019/691a7f1b-1422-4b7a-b3b0-bb75a15a60b5)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
